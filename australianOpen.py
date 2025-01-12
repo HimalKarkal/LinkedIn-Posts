@@ -16,7 +16,15 @@ women_dict = requests.get(womenSingles_url).json()
 
 # Creating a dataframe to store the data
 df = pd.DataFrame(
-    columns=["PlayerId", "Name", "Country", "Rank", "CareerTitles", "CareerPrizeMoney"]
+    columns=[
+        "PlayerId",
+        "Name",
+        "Gender",
+        "Country",
+        "Rank",
+        "CareerTitles",
+        "CareerPrizeMoney",
+    ]
 )
 
 # Extracting player data
@@ -31,13 +39,12 @@ for player in men_dict["players"]:
     CareerTitles = int(player["career_titles"])
     CareerPrizeMoney = int(player["career_prize_money"])
 
-    data_list = [Player_Id, Name, Country, Rank, CareerTitles, CareerPrizeMoney]
+    data_list = [Player_Id, Name, Gender, Country, Rank, CareerTitles, CareerPrizeMoney]
 
     df.loc[len(df)] = data_list
 
 # Women's singles
-# Men's singles
-for player in men_dict["players"]:
+for player in women_dict["players"]:
     Player_Id = player["player_id"]
     Name = player["full_name"]
     Gender = "Female"
@@ -46,7 +53,7 @@ for player in men_dict["players"]:
     CareerTitles = int(player["career_titles"])
     CareerPrizeMoney = int(player["career_prize_money"])
 
-    data_list = [Player_Id, Name, Country, Rank, CareerTitles, CareerPrizeMoney]
+    data_list = [Player_Id, Name, Gender, Country, Rank, CareerTitles, CareerPrizeMoney]
 
     df.loc[len(df)] = data_list
 
