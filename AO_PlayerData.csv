@@ -17,17 +17,17 @@ ATPH997,Yannick Hanfmann,Male,Germany,98,0,3231157
 ATPHB64,Quentin Halys,Male,France,71,0,3287817
 ATPJ551,Nicolas Jarry,Male,Chile,34,3,6621179
 ATPKE17,Nick Kyrgios,Male,Australia,1271,7,12494766
-ATPKE29,Karen Khachanov,Male,,19,7,18239247
+ATPKE29,Karen Khachanov,Male,Russia,19,7,18239247
 ATPL987,Dusan Lajovic,Male,Serbia,75,2,9735759
 ATPMC65,Gael Monfils,Male,France,52,12,23295060
 ATPME82,Adrian Mannarino,Male,France,73,5,13056025
 ATPMJ08,Thiago Monteiro,Male,Brazil,106,0,3957219
-ATPMM58,Daniil Medvedev,Male,,5,20,45126978
+ATPMM58,Daniil Medvedev,Male,Russia,5,20,45126978
 ATPN552,Kei Nishikori,Male,Japan,74,12,25710357
 ATPN732,Yoshihito Nishioka,Male,Japan,63,3,6551286
 ATPN771,Cameron Norrie,Male,United Kingdom,48,5,11472429
 ATPPF39,Lucas Pouille,Male,France,104,5,8693598
-ATPRE44,Andrey Rublev,Male,,9,16,27465506
+ATPRE44,Andrey Rublev,Male,Russia,9,16,27465506
 ATPRH16,Casper Ruud,Male,Norway,6,12,22682369
 ATPSL28,Jan-Lennard Struff,Male,Germany,42,1,10971031
 ATPSU55,Denis Shapovalov,Male,Canada,58,2,12235848
@@ -60,7 +60,7 @@ ATPHB71,Hubert Hurkacz,Male,Poland,18,8,17257225
 ATPHF80,Hady Habib,Male,Lebanon,219,0,154619
 ATPHH26,Ugo Humbert,Male,France,14,6,8511084
 ATPJ553,Omar Jasika,Male,Australia,180,0,504317
-ATPK09F,Pavel Kotov,Male,,99,0,1869571
+ATPK09F,Pavel Kotov,Male,Russia,99,0,1869571
 ATPK0AH,Sebastian Korda,Male,United States of America,22,2,6806513
 ATPKC12,Mitchell Krueger,Male,United States of America,148,0,1500356
 ATPKD46,Thanasi Kokkinakis,Male,Australia,77,1,4455609
@@ -80,7 +80,7 @@ ATPP09Z,Alexei Popyrin,Male,Australia,25,3,6759943
 ATPPL56,Tommy Paul,Male,United States of America,12,4,10055634
 ATPRC91,Arthur Rinderknech,Male,France,60,0,3657240
 ATPSU87,Lorenzo Sonego,Male,Italy,54,4,6912686
-ATPSX50,Roman Safiullin,Male,,62,0,3243994
+ATPSX50,Roman Safiullin,Male,Russia,62,0,3243994
 ATPSX91,Thiago Seyboth Wild,Male,Brazil,76,1,1883548
 ATPTE30,Alejandro Tabilo,Male,Chile,23,2,3377294
 ATPU182,Camilo Ugo Carabelli,Male,Argentina,95,0,830480
@@ -133,7 +133,7 @@ WTA311779,Shuai Zhang,Female,China,205,3,10840259
 WTA312469,Sorana Cirstea,Female,Romania,72,2,9721830
 WTA313169,Irina-Camelia Begu,Female,Romania,83,5,8295788
 WTA313711,Petra Martic,Female,Croatia,132,2,8880672
-WTA313796,Anastasia Pavlyuchenkova,Female,,28,12,14458539
+WTA313796,Anastasia Pavlyuchenkova,Female,Russia,28,12,14458539
 WTA315130,Magda Linette,Female,Poland,38,3,6963024
 WTA315391,Caroline Garcia,Female,France,58,11,18283326
 WTA315683,Sloane Stephens,Female,United States of America,84,8,18869940
@@ -152,24 +152,24 @@ WTA318176,Beatriz Haddad Maia,Female,Brazil,16,4,7581332
 WTA318312,Maria Sakkari,Female,Greece,32,2,12569218
 WTA318516,Donna Vekic,Female,Croatia,19,4,8870111
 WTA318609,Taylor Townsend,Female,United States of America,71,0,5384509
-WTA319007,Ekaterina Alexandrova,Female,,27,4,7000663
+WTA319007,Ekaterina Alexandrova,Female,Russia,27,4,7000663
 WTA319112,Nadia Podoroska,Female,Argentina,95,0,2873862
 WTA319280,Jasmine Paolini,Female,Italy,4,2,8796787
-WTA319526,Veronika Kudermetova,Female,,77,2,7851628
+WTA319526,Veronika Kudermetova,Female,Russia,77,2,7851628
 WTA319939,Jelena Ostapenko,Female,Latvia,17,8,16286419
 WTA319998,Naomi Osaka,Female,Japan,50,7,22068647
 WTA320238,Nao Hibino,Female,Japan,143,3,3400470
 WTA320301,Katerina Siniakova,Female,Czech Republic,46,5,12629881
-WTA320760,Aryna Sabalenka,Female,,1,18,30299298
+WTA320760,Aryna Sabalenka,Female,Belarus,1,18,30299298
 WTA320942,Sofia Kenin,Female,United States of America,81,5,10203235
 WTA320945,Jana Fett,Female,Croatia,134,0,1035451
 WTA322052,Caroline Dolehide,Female,United States of America,82,0,4342384
-WTA322082,Daria Kasatkina,Female,,9,8,12720991
+WTA322082,Daria Kasatkina,Female,Russia,9,8,12720991
 WTA323027,Marketa Vondrousova,Female,Czech Republic,39,2,10438436
-WTA323942,Anna Kalinskaya,Female,,14,0,4278625
-WTA324267,Anna Blinkova,Female,,75,1,3787671
+WTA323942,Anna Kalinskaya,Female,Russia,14,0,4278625
+WTA324267,Anna Blinkova,Female,Russia,75,1,3787671
 WTA315232,Ajla Tomljanovic,Female,Australia,116,0,6497509
-WTA312001,Victoria Azarenka,Female,,22,21,38081537
+WTA312001,Victoria Azarenka,Female,Belarus,22,21,38081537
 WTA313349,Arantxa Rus,Female,Netherlands,74,1,4045745
 WTA314359,Nuria Parrizas Diaz,Female,Spain,104,0,1876808
 WTA316925,Danielle Collins,Female,United States of America,11,4,9056941
@@ -192,7 +192,7 @@ WTA320983,Marie Bouzkova,Female,Czech Republic,42,1,5310958
 WTA321158,Cristina Bucsa,Female,Spain,101,0,2619866
 WTA321454,Greet Minnen,Female,Belgium,94,0,2772283
 WTA322191,Karolina Muchova,Female,Czech Republic,21,1,8660088
-WTA322222,Liudmila Samsonova,Female,,26,5,5859747
+WTA322222,Liudmila Samsonova,Female,Russia,26,5,5859747
 WTA322280,Lucia Bronzetti,Female,Italy,78,1,2283723
 WTA322638,Maria Lourdes Carle,Female,Argentina,96,0,820571
 WTA322942,Anna Bondar,Female,Hungary,97,0,1904350
@@ -207,7 +207,7 @@ WTA324898,Suzan Lamens,Female,Netherlands,80,1,469181
 WTA324934,Olga Danilovic,Female,Serbia,53,2,1717179
 WTA325338,Yuliia Starodubtseva,Female,Ukraine,100,0,705117
 WTA325410,Emma Navarro,Female,United States of America,8,1,3540674
-WTA325601,Anastasia Potapova,Female,,35,2,4308034
+WTA325601,Anastasia Potapova,Female,Russia,35,2,4308034
 WTA325639,Maja Chwalinska,Female,Poland,126,0,487814
 WTA325725,Caty McNally,Female,United States of America,540,0,2141746
 WTA325836,Varvara Gracheva,Female,France,69,0,3225912
@@ -229,7 +229,7 @@ WTA327793,Clara Tauson,Female,Denmark,41,3,2334249
 WTA327909,Elisabetta Cocciaretto,Female,Italy,55,1,2372851
 WTA327573,Peyton Stearns,Female,United States of America,47,1,2006650
 WTA326653,Olivia Gadecki,Female,Australia,106,0,1057036
-WTA325936,Kamilla Rakhimova,Female,,62,0,2026279
+WTA325936,Kamilla Rakhimova,Female,Russia,62,0,2026279
 WTA313485,Rebecca Marino,Female,Canada,98,0,2111255
 WTA327101,Hailey Baptiste,Female,United States of America,88,0,1373628
 WTA328120,Qinwen Zheng,Female,China,5,5,8311577
@@ -243,15 +243,15 @@ WTA329409,Ashlyn Krueger,Female,United States of America,54,1,1672493
 WTA327287,Julia Riera,Female,Argentina,147,0,492796
 WTA327620,Elina Avanesyan,Female,Armenia,44,0,1790299
 WTA329918,Sonay Kartal,Female,United Kingdom,87,1,543547
-WTA328897,Polina Kudermetova,Female,,57,0,552484
+WTA328897,Polina Kudermetova,Female,Russia,57,0,552484
 WTA329668,Linda Noskova,Female,Czech Republic,30,1,2310654
 WTA328139,Jessica Bouzas Maneiro,Female,Spain,52,0,1026086
-WTA330151,Erika Andreeva,Female,,86,0,1047373
+WTA330151,Erika Andreeva,Female,Russia,86,0,1047373
 WTA329393,Talia Gibson,Female,Australia,150,0,409075
 WTA330375,Sara Bejlek,Female,Czech Republic,156,0,666280
-WTA330482,Diana Shnaider,Female,,13,4,2066671
+WTA330482,Diana Shnaider,Female,Russia,13,4,2066671
 WTA330442,Anca Todoni,Female,Romania,110,0,264486
-WTA331809,Mirra Andreeva,Female,,15,1,2808807
+WTA331809,Mirra Andreeva,Female,Russia,15,1,2808807
 WTA330544,Maya Joint,Female,Australia,118,0,317893
 WTA332285,Iva Jovic,Female,United States of America,191,0,201300
 WTA333111,Emerson Jones,Female,Australia,371,0,48737
