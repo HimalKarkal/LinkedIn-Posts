@@ -1,0 +1,257 @@
+PlayerId,Name,Country,Rank,CareerTitles,CareerPrizeMoney
+ATPBD06,Roberto Bautista Agut,Spain,51,12,18804089
+ATPBG23,Nikoloz Basilashvili,Georgia,210,5,8809902
+ATPBK40,Matteo Berrettini,Italy,35,10,12492144
+ATPBK92,Alexander Bublik,Kazakhstan,33,4,7634978
+ATPCD85,Pablo Carreno Busta,Spain,184,7,15874019
+ATPCF59,Roberto Carballes Baena,Spain,59,2,5317867
+ATPCG80,Borna Coric,Croatia,88,3,12714415
+ATPD643,Novak Djokovic,Serbia,7,99,185541164
+ATPD875,Grigor Dimitrov,Bulgaria,10,9,29075508
+ATPD923,Damir Dzumhur,Bosnia and Herzegovina,83,3,5191476
+ATPDA81,Taro Daniel,Japan,84,1,4547839
+ATPF510,Fabio Fognini,Italy,89,9,18839820
+ATPFB98,Taylor Fritz,United States of America,4,8,23346252
+ATPGB88,David Goffin,Belgium,53,6,17997945
+ATPH997,Yannick Hanfmann,Germany,98,0,3231157
+ATPHB64,Quentin Halys,France,71,0,3287817
+ATPJ551,Nicolas Jarry,Chile,34,3,6621179
+ATPKE17,Nick Kyrgios,Australia,1271,7,12494766
+ATPKE29,Karen Khachanov,,19,7,18239247
+ATPL987,Dusan Lajovic,Serbia,75,2,9735759
+ATPMC65,Gael Monfils,France,52,12,23295060
+ATPME82,Adrian Mannarino,France,73,5,13056025
+ATPMJ08,Thiago Monteiro,Brazil,106,0,3957219
+ATPMM58,Daniil Medvedev,,5,20,45126978
+ATPN552,Kei Nishikori,Japan,74,12,25710357
+ATPN732,Yoshihito Nishioka,Japan,63,3,6551286
+ATPN771,Cameron Norrie,United Kingdom,48,5,11472429
+ATPPF39,Lucas Pouille,France,104,5,8693598
+ATPRE44,Andrey Rublev,,9,16,27465506
+ATPRH16,Casper Ruud,Norway,6,12,22682369
+ATPSL28,Jan-Lennard Struff,Germany,42,1,10971031
+ATPSU55,Denis Shapovalov,Canada,58,2,12235848
+ATPTC61,Jordan Thompson,Australia,27,1,8043810
+ATPTD51,Frances Tiafoe,United States of America,17,3,13352004
+ATPTE51,Stefanos Tsitsipas,Greece,11,11,33254721
+ATPW367,Stan Wawrinka,Switzerland,158,16,37287773
+ATPZ355,Alexander Zverev,Germany,2,23,50548001
+ATPAE14,Daniel Altmaier,Germany,93,0,3313814
+ATPAG37,Felix Auger-Aliassime,Canada,29,5,14201813
+ATPB0BI,Sebastian Baez,Argentina,28,6,4378610
+ATPB0CD,Jenson Brooksby,United States of America,466,0,2035768
+ATPBM95,Benjamin Bonzi,France,70,1,2942196
+ATPBT72,Nuno Borges,Portugal,36,1,2615540
+ATPBU13,Zizou Bergs,Belgium,66,0,1488714
+ATPC0AU,Francisco Cerundolo,Argentina,31,3,5934344
+ATPC0DF,Francisco Comesana,Argentina,85,0,788573
+ATPCE77,Federico Coria,Argentina,97,0,3095362
+ATPD0CG,Facundo Diaz Acosta,Argentina,78,1,1195646
+ATPD994,James Duckworth,Australia,94,0,4062086
+ATPDF88,Aziz Dougaz,Tunisia,230,0,405993
+ATPDH50,Alejandro Davidovich Fokina,Spain,68,0,7069266
+ATPDH58,Alex de Minaur,Australia,8,9,16027324
+ATPEA24,Tomas Martin Etcheverry,Argentina,39,0,3943784
+ATPG09O,Hugo Gaston,France,81,0,2788389
+ATPGC88,Marcos Giron,United States of America,45,1,4897652
+ATPGD64,Cristian Garin,Chile,151,5,6008297
+ATPGJ37,Tallon Griekspoor,Netherlands,40,2,4985647
+ATPHB71,Hubert Hurkacz,Poland,18,8,17257225
+ATPHF80,Hady Habib,Lebanon,219,0,154619
+ATPHH26,Ugo Humbert,France,14,6,8511084
+ATPJ553,Omar Jasika,Australia,180,0,504317
+ATPK09F,Pavel Kotov,,99,0,1869571
+ATPK0AH,Sebastian Korda,United States of America,22,2,6806513
+ATPKC12,Mitchell Krueger,United States of America,148,0,1500356
+ATPKD46,Thanasi Kokkinakis,Australia,77,1,4455609
+ATPKE73,Dominik Koepfer,Germany,123,0,3533466
+ATPKI63,Lukas Klein,Slovakia,145,0,834119
+ATPKI95,Miomir Kecmanovic,Serbia,55,1,6593911
+ATPM0CI,Fabian Marozsan,Hungary,57,0,2259273
+ATPMO44,Pedro Martinez,Spain,43,1,4316563
+ATPMP20,Alexandre Muller,France,56,1,2355473
+ATPMQ75,Kamil Majchrzak,Poland,117,0,2096298
+ATPMU94,Jaume Munar,Spain,61,0,4752444
+ATPMW02,Corentin Moutet,France,69,0,3985093
+ATPN897,Sumit Nagal,India,96,0,1415992
+ATPO483,Christopher O'Connell,Australia,64,0,3087142
+ATPO522,Reilly Opelka,United States of America,171,4,4518925
+ATPP09Z,Alexei Popyrin,Australia,25,3,6759943
+ATPPL56,Tommy Paul,United States of America,12,4,10055634
+ATPRC91,Arthur Rinderknech,France,60,0,3657240
+ATPSU87,Lorenzo Sonego,Italy,54,4,6912686
+ATPSX50,Roman Safiullin,,62,0,3243994
+ATPSX91,Thiago Seyboth Wild,Brazil,76,1,1883548
+ATPTE30,Alejandro Tabilo,Chile,23,2,3377294
+ATPU182,Camilo Ugo Carabelli,Argentina,95,0,830480
+ATPV812,Botic van de Zandschulp,Netherlands,82,0,4806028
+ATPV832,Aleksandar Vukic,Australia,67,0,2353321
+ATPZ371,Zhizhen Zhang,China,47,0,3566122
+ATPM0FH,Tomas Machac,Czech Republic,26,0,3511124
+ATPD0CO,Jack Draper,United Kingdom,15,2,4900776
+ATPB0EJ,Tristan Boyer,United States of America,134,0,251141
+ATPM0EJ,Lorenzo Musetti,Italy,16,2,7706220
+ATPH0BH,Rinky Hijikata,Australia,79,0,2374204
+ATPV0AM,Otto Virtanen,Finland,92,0,876096
+ATPA0E2,Carlos Alcaraz,Spain,3,16,37854976
+ATPF0BY,Jacob Fearnley,United Kingdom,86,0,323597
+ATPN0AE,Brandon Nakashima,United States of America,37,1,4611229
+ATPN0BG,Luca Nardi,Italy,90,0,1277272
+ATPS0AG,Jannik Sinner,Italy,1,18,37238688
+ATPS0H2,Alexander Shevchenko,Kazakhstan,72,0,2125915
+ATPA0FC,Matteo Arnaldi,Italy,38,0,3136267
+ATPL0BV,Jiri Lehecka,Czech Republic,24,2,4498741
+ATPR0DG,Holger Rune,Denmark,13,4,11526402
+ATPD0F6,Gabriel Diallo,Canada,87,0,891173
+ATPC0E9,Flavio Cobolli,Italy,32,0,2541521
+ATPM0GZ,Giovanni Mpetshi Perricard,France,30,2,1736814
+ATPN0BS,Mariano Navone,Argentina,46,0,1279827
+ATPO0A2,Gauthier Onclin,Belgium,236,0,263524
+ATPS0HR,Kasidit Samrej,Thailand,414,0,60274
+ATPW09E,Adam Walton,Australia,91,0,764322
+ATPD0FJ,Luciano Darderi,Italy,44,1,1415513
+ATPG0GD,Matteo Gigante,Italy,146,0,418773
+ATPC0H0,Arthur Cazaux,France,80,0,1370911
+ATPS0N0,Tristan Schoolkate,Australia,173,0,525052
+ATPS0LA,Dominic Stricker,Switzerland,298,0,1710257
+ATPY09V,Yunchaokete Bu,China,65,0,702196
+ATPF0F1,Arthur Fils,France,20,3,4448696
+ATPTC01,Li Tu,Australia,179,0,575296
+ATPS0S1,Ben Shelton,United States of America,21,2,5497682
+ATPF0F2,Jaime Faria,Portugal,124,0,215092
+ATPS0RE,Juncheng Shang,China,50,1,1779146
+ATPM0OQ,James McCabe,Australia,258,0,294922
+ATPF0FV,Joao Fonseca,Brazil,113,0,847106
+ATPM0NI,Jakub Mensik,Czech Republic,49,0,1581334
+ATPB0NN,Nishesh Basavareddy,United States of America,133,0,330517
+ATPM0QI,Alex Michelsen,United States of America,41,0,2051282
+ATPT0HA,Learner Tien,United States of America,120,0,729484
+ATPL0IL,Martin Landaluce,Spain,143,0,226907
+ATPBD06,Roberto Bautista Agut,Spain,51,12,18804089
+ATPBG23,Nikoloz Basilashvili,Georgia,210,5,8809902
+ATPBK40,Matteo Berrettini,Italy,35,10,12492144
+ATPBK92,Alexander Bublik,Kazakhstan,33,4,7634978
+ATPCD85,Pablo Carreno Busta,Spain,184,7,15874019
+ATPCF59,Roberto Carballes Baena,Spain,59,2,5317867
+ATPCG80,Borna Coric,Croatia,88,3,12714415
+ATPD643,Novak Djokovic,Serbia,7,99,185541164
+ATPD875,Grigor Dimitrov,Bulgaria,10,9,29075508
+ATPD923,Damir Dzumhur,Bosnia and Herzegovina,83,3,5191476
+ATPDA81,Taro Daniel,Japan,84,1,4547839
+ATPF510,Fabio Fognini,Italy,89,9,18839820
+ATPFB98,Taylor Fritz,United States of America,4,8,23346252
+ATPGB88,David Goffin,Belgium,53,6,17997945
+ATPH997,Yannick Hanfmann,Germany,98,0,3231157
+ATPHB64,Quentin Halys,France,71,0,3287817
+ATPJ551,Nicolas Jarry,Chile,34,3,6621179
+ATPKE17,Nick Kyrgios,Australia,1271,7,12494766
+ATPKE29,Karen Khachanov,,19,7,18239247
+ATPL987,Dusan Lajovic,Serbia,75,2,9735759
+ATPMC65,Gael Monfils,France,52,12,23295060
+ATPME82,Adrian Mannarino,France,73,5,13056025
+ATPMJ08,Thiago Monteiro,Brazil,106,0,3957219
+ATPMM58,Daniil Medvedev,,5,20,45126978
+ATPN552,Kei Nishikori,Japan,74,12,25710357
+ATPN732,Yoshihito Nishioka,Japan,63,3,6551286
+ATPN771,Cameron Norrie,United Kingdom,48,5,11472429
+ATPPF39,Lucas Pouille,France,104,5,8693598
+ATPRE44,Andrey Rublev,,9,16,27465506
+ATPRH16,Casper Ruud,Norway,6,12,22682369
+ATPSL28,Jan-Lennard Struff,Germany,42,1,10971031
+ATPSU55,Denis Shapovalov,Canada,58,2,12235848
+ATPTC61,Jordan Thompson,Australia,27,1,8043810
+ATPTD51,Frances Tiafoe,United States of America,17,3,13352004
+ATPTE51,Stefanos Tsitsipas,Greece,11,11,33254721
+ATPW367,Stan Wawrinka,Switzerland,158,16,37287773
+ATPZ355,Alexander Zverev,Germany,2,23,50548001
+ATPAE14,Daniel Altmaier,Germany,93,0,3313814
+ATPAG37,Felix Auger-Aliassime,Canada,29,5,14201813
+ATPB0BI,Sebastian Baez,Argentina,28,6,4378610
+ATPB0CD,Jenson Brooksby,United States of America,466,0,2035768
+ATPBM95,Benjamin Bonzi,France,70,1,2942196
+ATPBT72,Nuno Borges,Portugal,36,1,2615540
+ATPBU13,Zizou Bergs,Belgium,66,0,1488714
+ATPC0AU,Francisco Cerundolo,Argentina,31,3,5934344
+ATPC0DF,Francisco Comesana,Argentina,85,0,788573
+ATPCE77,Federico Coria,Argentina,97,0,3095362
+ATPD0CG,Facundo Diaz Acosta,Argentina,78,1,1195646
+ATPD994,James Duckworth,Australia,94,0,4062086
+ATPDF88,Aziz Dougaz,Tunisia,230,0,405993
+ATPDH50,Alejandro Davidovich Fokina,Spain,68,0,7069266
+ATPDH58,Alex de Minaur,Australia,8,9,16027324
+ATPEA24,Tomas Martin Etcheverry,Argentina,39,0,3943784
+ATPG09O,Hugo Gaston,France,81,0,2788389
+ATPGC88,Marcos Giron,United States of America,45,1,4897652
+ATPGD64,Cristian Garin,Chile,151,5,6008297
+ATPGJ37,Tallon Griekspoor,Netherlands,40,2,4985647
+ATPHB71,Hubert Hurkacz,Poland,18,8,17257225
+ATPHF80,Hady Habib,Lebanon,219,0,154619
+ATPHH26,Ugo Humbert,France,14,6,8511084
+ATPJ553,Omar Jasika,Australia,180,0,504317
+ATPK09F,Pavel Kotov,,99,0,1869571
+ATPK0AH,Sebastian Korda,United States of America,22,2,6806513
+ATPKC12,Mitchell Krueger,United States of America,148,0,1500356
+ATPKD46,Thanasi Kokkinakis,Australia,77,1,4455609
+ATPKE73,Dominik Koepfer,Germany,123,0,3533466
+ATPKI63,Lukas Klein,Slovakia,145,0,834119
+ATPKI95,Miomir Kecmanovic,Serbia,55,1,6593911
+ATPM0CI,Fabian Marozsan,Hungary,57,0,2259273
+ATPMO44,Pedro Martinez,Spain,43,1,4316563
+ATPMP20,Alexandre Muller,France,56,1,2355473
+ATPMQ75,Kamil Majchrzak,Poland,117,0,2096298
+ATPMU94,Jaume Munar,Spain,61,0,4752444
+ATPMW02,Corentin Moutet,France,69,0,3985093
+ATPN897,Sumit Nagal,India,96,0,1415992
+ATPO483,Christopher O'Connell,Australia,64,0,3087142
+ATPO522,Reilly Opelka,United States of America,171,4,4518925
+ATPP09Z,Alexei Popyrin,Australia,25,3,6759943
+ATPPL56,Tommy Paul,United States of America,12,4,10055634
+ATPRC91,Arthur Rinderknech,France,60,0,3657240
+ATPSU87,Lorenzo Sonego,Italy,54,4,6912686
+ATPSX50,Roman Safiullin,,62,0,3243994
+ATPSX91,Thiago Seyboth Wild,Brazil,76,1,1883548
+ATPTE30,Alejandro Tabilo,Chile,23,2,3377294
+ATPU182,Camilo Ugo Carabelli,Argentina,95,0,830480
+ATPV812,Botic van de Zandschulp,Netherlands,82,0,4806028
+ATPV832,Aleksandar Vukic,Australia,67,0,2353321
+ATPZ371,Zhizhen Zhang,China,47,0,3566122
+ATPM0FH,Tomas Machac,Czech Republic,26,0,3511124
+ATPD0CO,Jack Draper,United Kingdom,15,2,4900776
+ATPB0EJ,Tristan Boyer,United States of America,134,0,251141
+ATPM0EJ,Lorenzo Musetti,Italy,16,2,7706220
+ATPH0BH,Rinky Hijikata,Australia,79,0,2374204
+ATPV0AM,Otto Virtanen,Finland,92,0,876096
+ATPA0E2,Carlos Alcaraz,Spain,3,16,37854976
+ATPF0BY,Jacob Fearnley,United Kingdom,86,0,323597
+ATPN0AE,Brandon Nakashima,United States of America,37,1,4611229
+ATPN0BG,Luca Nardi,Italy,90,0,1277272
+ATPS0AG,Jannik Sinner,Italy,1,18,37238688
+ATPS0H2,Alexander Shevchenko,Kazakhstan,72,0,2125915
+ATPA0FC,Matteo Arnaldi,Italy,38,0,3136267
+ATPL0BV,Jiri Lehecka,Czech Republic,24,2,4498741
+ATPR0DG,Holger Rune,Denmark,13,4,11526402
+ATPD0F6,Gabriel Diallo,Canada,87,0,891173
+ATPC0E9,Flavio Cobolli,Italy,32,0,2541521
+ATPM0GZ,Giovanni Mpetshi Perricard,France,30,2,1736814
+ATPN0BS,Mariano Navone,Argentina,46,0,1279827
+ATPO0A2,Gauthier Onclin,Belgium,236,0,263524
+ATPS0HR,Kasidit Samrej,Thailand,414,0,60274
+ATPW09E,Adam Walton,Australia,91,0,764322
+ATPD0FJ,Luciano Darderi,Italy,44,1,1415513
+ATPG0GD,Matteo Gigante,Italy,146,0,418773
+ATPC0H0,Arthur Cazaux,France,80,0,1370911
+ATPS0N0,Tristan Schoolkate,Australia,173,0,525052
+ATPS0LA,Dominic Stricker,Switzerland,298,0,1710257
+ATPY09V,Yunchaokete Bu,China,65,0,702196
+ATPF0F1,Arthur Fils,France,20,3,4448696
+ATPTC01,Li Tu,Australia,179,0,575296
+ATPS0S1,Ben Shelton,United States of America,21,2,5497682
+ATPF0F2,Jaime Faria,Portugal,124,0,215092
+ATPS0RE,Juncheng Shang,China,50,1,1779146
+ATPM0OQ,James McCabe,Australia,258,0,294922
+ATPF0FV,Joao Fonseca,Brazil,113,0,847106
+ATPM0NI,Jakub Mensik,Czech Republic,49,0,1581334
+ATPB0NN,Nishesh Basavareddy,United States of America,133,0,330517
+ATPM0QI,Alex Michelsen,United States of America,41,0,2051282
+ATPT0HA,Learner Tien,United States of America,120,0,729484
+ATPL0IL,Martin Landaluce,Spain,143,0,226907
